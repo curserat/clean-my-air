@@ -1,4 +1,4 @@
-/* * Data converted from C:/espIOT/clean-my-air/clean_my_air_esp32/build/esp-idf/mbedtls/x509_crt_bundle
+/* * Data converted from C:/Users/Mickle/Desktop/Projects/clean-my-air/clean_my_air_esp32/build/esp-idf/mbedtls/x509_crt_bundle
  */
 .data
 #if !defined (__APPLE__) && !defined (__linux__)

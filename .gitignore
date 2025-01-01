@@ -35,3 +35,4 @@
 *debug.log
 /.vscode
 *clean-my-air.code-workspace
+/clean_my_air_esp32/build

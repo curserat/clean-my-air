@@ -1,6 +1,6 @@
 /* Automatically generated file; DO NOT EDIT */
 /* Espressif IoT Development Framework Linker Script */
-/* Generated from: C:\espIOT\clean-my-air\clean_my_air_esp32\build\esp-idf\esp_system\ld\sections.ld.in */
+/* Generated from: C:\Users\Mickle\Desktop\Projects\clean-my-air\clean_my_air_esp32\build\esp-idf\esp_system\ld\sections.ld.in */
 
 /*
 

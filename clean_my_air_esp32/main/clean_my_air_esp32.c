@@ -39,13 +39,13 @@ static void wifi_event_handler(void* arg, esp_event_base_t event_base,
 {
 	if (event_base == WIFI_EVENT && event_id == WIFI_EVENT_STA_START)
 	{
-		ESP_LOGI(TAG, "Connecting to AP...");
+		ESP_LOGI(TAG, "Connecting to Access Point...");
 		esp_wifi_connect();
 	} else if (event_base == WIFI_EVENT && event_id == WIFI_EVENT_STA_DISCONNECTED)
 	{
 		if (s_retry_num < MAX_FAILURES)
 		{
-			ESP_LOGI(TAG, "Reconnecting to AP...");
+			ESP_LOGI(TAG, "Reconnecting to Access Point...");
 			esp_wifi_connect();
 			s_retry_num++;
 		} else {
@@ -107,8 +107,8 @@ esp_err_t connect_wifi()
     /** START THE WIFI DRIVER **/
     wifi_config_t wifi_config = {
         .sta = {
-            .ssid = "",
-            .password = "",
+            .ssid = "Hernandez2",
+            .password = "Home1669",
 	     .threshold.authmode = WIFI_AUTH_WPA2_PSK,
             .pmf_cfg = {
                 .capable = true,

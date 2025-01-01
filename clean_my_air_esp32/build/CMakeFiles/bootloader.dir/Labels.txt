@@ -1,13 +1,13 @@
 # Target labels
  bootloader
 # Source files and their labels
-C:/espIOT/clean-my-air/clean_my_air_esp32/build/CMakeFiles/bootloader
-C:/espIOT/clean-my-air/clean_my_air_esp32/build/CMakeFiles/bootloader.rule
-C:/espIOT/clean-my-air/clean_my_air_esp32/build/CMakeFiles/bootloader-complete.rule
-C:/espIOT/clean-my-air/clean_my_air_esp32/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
-C:/espIOT/clean-my-air/clean_my_air_esp32/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
-C:/espIOT/clean-my-air/clean_my_air_esp32/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
-C:/espIOT/clean-my-air/clean_my_air_esp32/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
-C:/espIOT/clean-my-air/clean_my_air_esp32/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
-C:/espIOT/clean-my-air/clean_my_air_esp32/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
-C:/espIOT/clean-my-air/clean_my_air_esp32/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+C:/Users/Mickle/Desktop/Projects/clean-my-air/clean_my_air_esp32/build/CMakeFiles/bootloader
+C:/Users/Mickle/Desktop/Projects/clean-my-air/clean_my_air_esp32/build/CMakeFiles/bootloader.rule
+C:/Users/Mickle/Desktop/Projects/clean-my-air/clean_my_air_esp32/build/CMakeFiles/bootloader-complete.rule
+C:/Users/Mickle/Desktop/Projects/clean-my-air/clean_my_air_esp32/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Users/Mickle/Desktop/Projects/clean-my-air/clean_my_air_esp32/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Users/Mickle/Desktop/Projects/clean-my-air/clean_my_air_esp32/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Users/Mickle/Desktop/Projects/clean-my-air/clean_my_air_esp32/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Users/Mickle/Desktop/Projects/clean-my-air/clean_my_air_esp32/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Users/Mickle/Desktop/Projects/clean-my-air/clean_my_air_esp32/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Users/Mickle/Desktop/Projects/clean-my-air/clean_my_air_esp32/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
