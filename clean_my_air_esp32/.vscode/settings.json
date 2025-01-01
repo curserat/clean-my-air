@@ -1,0 +1,11 @@
+{
+    "idf.portWin": "COM8",
+    "idf.espIdfPathWin": "C:\\Users\\Mickle\\esp\\v5.3.2\\esp-idf",
+    "idf.toolsPathWin": "C:\\Users\\Mickle\\.espressif",
+    "idf.flashType": "UART",
+    "files.associations": {
+        "*.ndjson": "jsonl",
+        "*.dbclient-js": "javascript",
+        "freertos.h": "c"
+    }
+}

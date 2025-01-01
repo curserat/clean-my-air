@@ -34,4 +34,7 @@
 # Misc
 *debug.log
 /.vscode
+/clean_my_air_esp32/build
 *clean-my-air.code-workspace
+
+
