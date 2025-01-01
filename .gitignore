@@ -36,3 +36,4 @@
 /.vscode
 *clean-my-air.code-workspace
 /clean_my_air_esp32/build
+/clean_my_air_esp32/main
